@@ -15,7 +15,7 @@ Pas de données personnelles (nom, email) sans consent.
 ## Utilisation des Données
 - Améliorer l'app (génération rizz personnalisée).
 - Pubs ciblées (opt-in).
-- Conformité GDPR : Consent clair au launch, droit d'accès/suppression (contact tonemail@example.com).
+- Conformité GDPR : Consent clair au launch, droit d'accès/suppression (contact: rizz.boost.ai@gmail.com).
 
 ## Partage des Données
 - Avec partners (AdMob/AppLovin, RevenueCat pour IAP) pour pubs/sub.
@@ -28,6 +28,6 @@ Pas de données personnelles (nom, email) sans consent.
 - Annulez sub anytime via App Store/Play Store.
 
 ## Contact
-Email : tonemail@example.com
+Email : rizz.boost.ai@gmail.com
 
 En utilisant l'app, vous acceptez cette policy.
