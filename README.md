@@ -13,6 +13,6 @@ Rizz Boost AI utilise l'intelligence artificielle pour générer des "rizz lines
 Télécharge bientôt sur App Store et Google Play !
 
 ## Contact
-Email : Rizz.bost.ai@hotmail.com
+Email : Rizz.boost.ai@hotmail.com
 
 © 2026 Rizz Boost AI
